@@ -54,8 +54,8 @@ div {
 
 .priority {
   position: absolute;
-  bottom: 0px;
-  right: 10px;
+  bottom: 4em;
+  left: 10px;
   font-weight: bold;
   font-size: 0.8em;
 }
@@ -75,4 +75,11 @@ button {
   bottom: 5px;
   left: 5px;
   color: green;
+}
+
+.deleteButton {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  color: red;
 }
